@@ -1,0 +1,1 @@
+- [researcher accidentally finds 0-day affecting his entire internet service provider](https://youtu.be/TFolQUeWoog)
